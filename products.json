@@ -1,0 +1,33 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "E-book",
+      "Price": 20,
+      "Stock": 100,
+      "Category": "Digital",
+      "Description": "An amazing e-book on programming",
+      "FileSizeInMB": 5.5
+    },
+    {
+      "Id": 2,
+      "Name": "Laptop",
+      "Price": 1000,
+      "Stock": 10,
+      "Category": "Physical",
+      "Description": "High-performance laptop",
+      "Weight": 2.5,
+      "Dimensions": "38x25x2 cm"
+    },
+    {
+      "Id": 3,
+      "Name": "Headphones",
+      "Price": 50,
+      "Stock": 25,
+      "Category": "Physical",
+      "Description": "Noise-cancelling headphones",
+      "Weight": 0.3,
+      "Dimensions": "20x18x10 cm"
+    }
+  ]
+}
